@@ -12,7 +12,7 @@
       <li><a href="#tela-adicionar">Tela de Adicionar Tarefa ➕</a></li>
       <li><a href="#tela-erro">Tela de Error ⚠️</a></li>
       <li><a href="#business-rules">Funcionalidades ⚙️</a></li>
-      <li><a href="#funcionamento-dos-filtros">Principais Bibliotecas 🛠️</a></li>
+      <li><a href="#pacote-da-aplicacao">Principais Bibliotecas 🛠️</a></li>
       <li><a href="#instruções-de-inicialização-do-projeto">Instruções de Inicialização do Projeto 🚀</a></li>
       <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas 💻</a></li>
     </ol>
@@ -54,10 +54,27 @@
       </ul>
     </section>
 
-   <section id="funcionamento-dos-filtros">
-      <h2>Principais Bibliotecas</h2>
-      <p>Explore as principais bibliotecas utilizadas no desenvolvimento da aplicação, que garantem uma experiência suave e eficiente para o usuário. 📚</p>
-    </section>
+   <<section id="pacote-da-aplicacao">
+  <h2>Informações do Pacote da Aplicação</h2>
+  <p>Aqui estão as informações sobre o pacote da aplicação:</p>
+  <pre>
+    "packages": {
+      "to-do-list": {
+        "name": "to-do-list",
+        "version": "1.0.0",
+        "license": "ISC",
+        "dependencies": {
+          "ejs": "^3.1.9",
+          "express": "^4.19.2",
+          "method-override": "^3.0.0",
+          "mongodb": "^6.5.0",
+          "mongoose": "^8.3.0",
+          "nodemon": "^3.1.0"
+        }
+      }
+    }
+  </pre>
+</section>
 
    <section id="instruções-de-inicialização-do-projeto">
       <h2>Instruções de Inicialização do Projeto</h2>
