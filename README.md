@@ -29,11 +29,22 @@
       <h2>Tela de Registro</h2>
       <p>Conheça as funcionalidades oferecidas pela aplicação na tela de registro, incluindo a seleção de questões, verificação automática e reinicialização do quiz. 📝</p>
       <img src="https://github.com/edvaldovitor250/to-do-list/assets/116117189/5d0780a8-b8f7-46f2-b183-cca7e4d904bb" alt="Tela de Lista de Tarefas">
-    </section>
+      <ul>
+  <li>✔️ Opção de ver</li>
+  <li>✔️ Remover</li>
+  <li>✔️ Editar</li>
+  <li>✔️ Criar nova tarefa</li>
+</ul>
+
+   </section>
     <section id="tela-adicionar">
       <h2>Tela de Adicionar Tarefa</h2>
       <p>Explore a lógica implementada neste projeto usando JavaScript para fornecer funcionalidades dinâmicas e interativas. ✨</p>
       <img src="https://github.com/edvaldovitor250/to-do-list/assets/116117189/f2988650-7d8b-44dd-8648-8b3f60074217" alt="Tela Padrão de Adicionar">
+            <ul>
+  <li>✔️ Opção de Salvar</li>
+  <li>✔️ Cancelar</li>
+</ul>
     </section>
 
   <section id="tela-error" style="display: none;">
