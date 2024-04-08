@@ -55,7 +55,7 @@
     </section>
 
    <<section id="pacote-da-aplicacao">
-  <h2>Informações do Pacote da Aplicação</h2>
+  <h2>Principais Bibliotecas</h2>
   <p>Aqui estão as informações sobre o pacote da aplicação:</p>
   <pre>
     "packages": {
